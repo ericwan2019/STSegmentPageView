@@ -11,7 +11,7 @@
 
 A powerful and useful segment tool, segment controller and custom segment titleView、 segment contentView. Written in Swift. （仿 美团，今日头条，网易，淘宝标题滚动视图）.
 
-![](https://github.com/wheying/STSegmentPageView/blob/master/1.png)![](https://github.com/wheying/STSegmentPageView/blob/master/2.png)
+![](https://github.com/wheying/STSegmentPageView/blob/master/1.png)    ![](https://github.com/wheying/STSegmentPageView/blob/master/2.png)
 
 ## Example
 
