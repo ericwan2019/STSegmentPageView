@@ -22,7 +22,7 @@ pod 'STSegmentPageView'
 
 ## Author
 
-EricWan, wanhongen@jingdata.com
+EricWan, hongenwan@gmail.com
 
 ## License
 
