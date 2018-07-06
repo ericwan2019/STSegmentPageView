@@ -54,8 +54,7 @@ class UseVCViewController: UIViewController {
             navBarHeight = 88
         }
         
-        
-        segmentVC.view.frame = CGRect(x: 0, y: navBarHeight, width: view.width, height: view.height )
+        segmentVC.view.frame = CGRect(x: 0, y: navBarHeight, width: view.width, height: view.height - navBarHeight)
         segmentVC.addSegmentController(toParentController: self)
     }
 
