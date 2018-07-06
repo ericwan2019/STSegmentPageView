@@ -1,0 +1,22 @@
+{
+  "name": "STSegmentPageView",
+  "version": "0.1.0",
+  "summary": "A short description of STSegmentPageView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/EricWan/STSegmentPageView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "EricWan": "wanhongen@jingdata.com"
+  },
+  "source": {
+    "git": "https://github.com/EricWan/STSegmentPageView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "STSegmentPageView/Classes/**/*"
+}

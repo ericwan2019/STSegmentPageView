@@ -1,0 +1,6 @@
+framework module STSegmentPageView {
+  umbrella header "STSegmentPageView-umbrella.h"
+
+  export *
+  module * { export * }
+}
