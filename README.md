@@ -11,6 +11,10 @@
 
 A powerful and useful segment tool, segment controller and custom segment titleView、 segment contentView. Written in Swift. （仿 美团，今日头条，网易，淘宝标题滚动视图）.
 
+![](/Users/cygr-0101-01-0069/Desktop/Simulator Screen Shot - iPhone 8 Plus - 2018-07-06 at 16.42.05.png)
+
+![](/Users/cygr-0101-01-0069/Desktop/Simulator Screen Shot - iPhone 8 Plus - 2018-07-06 at 16.39.48.png)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.

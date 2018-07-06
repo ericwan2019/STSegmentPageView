@@ -28,7 +28,7 @@ class UseVCViewController: UIViewController {
         let titles = ["推荐","热点","视频","娱乐娱乐娱乐娱乐娱乐娱乐娱乐","问答","北京","朝阳","地方","八卦","综艺","推荐","热点","视频","娱乐","问答","北京","朝阳","地方","八卦","综艺"]
         
         var i = 0
-        var models = titles.map { (title) -> STSegmentModel in
+        let models = titles.map { (title) -> STSegmentModel in
             let model = STSegmentModel()
             let controller = SecondViewController()
             controller.label.text = title

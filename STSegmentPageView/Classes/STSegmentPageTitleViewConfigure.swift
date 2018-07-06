@@ -92,6 +92,7 @@ public class STSegmentPageTitleViewConfigure: NSObject {
             }
         }
     }
+    
     //MARK: - 底部底线 默认值Hex-color #eaeaea RGB(234,234,234)
     public var bottomSeparatorColor : UIColor = UIColor(red: 234/255.0, green: 234/255.0, blue: 234/255.0, alpha: 1.0)
     
